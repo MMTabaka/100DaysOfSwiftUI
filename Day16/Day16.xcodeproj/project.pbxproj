@@ -11,6 +11,12 @@
 		FA5767DE282DB7A100FC2A13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767DD282DB7A100FC2A13 /* ContentView.swift */; };
 		FA5767E0282DB7A400FC2A13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5767DF282DB7A400FC2A13 /* Assets.xcassets */; };
 		FA5767E3282DB7A400FC2A13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5767E2282DB7A400FC2A13 /* Preview Assets.xcassets */; };
+		FA5767EE282DBA7E00FC2A13 /* CreatingAForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767ED282DBA7E00FC2A13 /* CreatingAForm.swift */; };
+		FA5767F0282DBC4000FC2A13 /* AddingANavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767EF282DBC4000FC2A13 /* AddingANavigationBar.swift */; };
+		FA5767F2282DBD6800FC2A13 /* ModifyingProgramState.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767F1282DBD6800FC2A13 /* ModifyingProgramState.swift */; };
+		FA5767F4282DBEF300FC2A13 /* BindingStateToUserInterfaceControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767F3282DBEF300FC2A13 /* BindingStateToUserInterfaceControl.swift */; };
+		FA5767F6282DBFF500FC2A13 /* CreatingViewsInLoop.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767F5282DBFF500FC2A13 /* CreatingViewsInLoop.swift */; };
+		FA5767FA282DC2F900FC2A13 /* ForEachPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5767F9282DC2F900FC2A13 /* ForEachPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		FA5767DD282DB7A100FC2A13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FA5767DF282DB7A400FC2A13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA5767E2282DB7A400FC2A13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FA5767ED282DBA7E00FC2A13 /* CreatingAForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingAForm.swift; sourceTree = "<group>"; };
+		FA5767EF282DBC4000FC2A13 /* AddingANavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingANavigationBar.swift; sourceTree = "<group>"; };
+		FA5767F1282DBD6800FC2A13 /* ModifyingProgramState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifyingProgramState.swift; sourceTree = "<group>"; };
+		FA5767F3282DBEF300FC2A13 /* BindingStateToUserInterfaceControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingStateToUserInterfaceControl.swift; sourceTree = "<group>"; };
+		FA5767F5282DBFF500FC2A13 /* CreatingViewsInLoop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingViewsInLoop.swift; sourceTree = "<group>"; };
+		FA5767F9282DC2F900FC2A13 /* ForEachPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				FA5767DB282DB7A100FC2A13 /* Day16App.swift */,
 				FA5767DD282DB7A100FC2A13 /* ContentView.swift */,
+				FA5767ED282DBA7E00FC2A13 /* CreatingAForm.swift */,
+				FA5767EF282DBC4000FC2A13 /* AddingANavigationBar.swift */,
+				FA5767F1282DBD6800FC2A13 /* ModifyingProgramState.swift */,
+				FA5767F3282DBEF300FC2A13 /* BindingStateToUserInterfaceControl.swift */,
+				FA5767F5282DBFF500FC2A13 /* CreatingViewsInLoop.swift */,
+				FA5767F9282DC2F900FC2A13 /* ForEachPicker.swift */,
 				FA5767DF282DB7A400FC2A13 /* Assets.xcassets */,
 				FA5767E1282DB7A400FC2A13 /* Preview Content */,
 			);
@@ -138,7 +156,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA5767DE282DB7A100FC2A13 /* ContentView.swift in Sources */,
+				FA5767F6282DBFF500FC2A13 /* CreatingViewsInLoop.swift in Sources */,
+				FA5767F2282DBD6800FC2A13 /* ModifyingProgramState.swift in Sources */,
+				FA5767EE282DBA7E00FC2A13 /* CreatingAForm.swift in Sources */,
+				FA5767FA282DC2F900FC2A13 /* ForEachPicker.swift in Sources */,
+				FA5767F0282DBC4000FC2A13 /* AddingANavigationBar.swift in Sources */,
 				FA5767DC282DB7A100FC2A13 /* Day16App.swift in Sources */,
+				FA5767F4282DBEF300FC2A13 /* BindingStateToUserInterfaceControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
